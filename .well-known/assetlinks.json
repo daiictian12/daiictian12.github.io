@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.cvsha.deoaa",
+    "sha256_cert_fingerprints":
+    ["BC:64:19:72:4F:D5:51:62:3C:47:41:CE:0A:B9:78:CC:5D:9D:8F:74:5E:75:03:E9:5A:2D:19:F5:72:0D:0A:0C"]
+  }
+}]
