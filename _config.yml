@@ -1,2 +1,2 @@
-include: [".well-known"]
+include: [".well-known","hdhd"]
 theme: jekyll-theme-cayman
